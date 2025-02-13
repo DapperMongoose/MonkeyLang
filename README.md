@@ -1,0 +1,1 @@
+This is not original work, it is my repository to hold my work in following along with the book "Writing an Interpreter in Go" by Thorsten Ball.  If you are interested in what you see here I encourage you to purchase the book for yourself.
